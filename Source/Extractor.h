@@ -2,6 +2,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface Extractor : NSObject
-+ (NSDictionary *)youtubePlayerRequest :(NSString *)client :(NSString *)videoID;
+@interface YouTubeExtractor : NSObject
++ (NSDictionary *)youtubePlayerRequest :(NSString *)clientId :(NSString *)videoId;
 @end

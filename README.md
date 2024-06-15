@@ -1,5 +1,5 @@
 ## Cool Alternatives 👌
-the tweaks shown are cool! might be better then YouTubePlus! https://github.com/Balackburn/YTLitePlus/releases/latest or https://github.com/Dayanch96/YTLite/releases/latest
+the tweaks shown are cool! might be better then YouTubePlus! https://github.com/YTLitePlus/YTLitePlus/releases/latest or https://github.com/Dayanch96/YTLite/releases/latest
 for a better experience.
 
 ## YouTube but with more features!
@@ -11,19 +11,19 @@ for a better experience.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2014.0%2B-yellow?logo=apple&logoColor=white" alt="Platform Badge">
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2015.0%2B-yellow?logo=apple&logoColor=white" alt="Platform Badge">
 </p>
 
 <p align="center">
-    <a href="https://github.com/arichorn/YouTubeEnhanced/release/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/arichorn/YouTubeEnhanced?logo=youtube&color=%23ff0000&label=Latest%20Release" alt="Badge"></img></a>
-    <a href="https://github.com/arichorn/YouTubeEnhanced/releases/latest"><img src="https://img.shields.io/github/downloads/arichorn/YouTubeEnhanced/total?color=%23ff0000&label=Downloads&logo=cloudsmith&logoColor=white" alt="Badge"></img></a>
-    <a href="https://github.com/arichorn/YouTubeEnhanced/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/arichorn/YouTubeEnhanced?logo=history&logoColor=white&color=%23ff0000&label=Last%20Commit" alt="Last Commit Badge"></a>
-    <a href="https://github.com/arichorn/YouTubeEnhanced/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/arichorn/YouTubeEnhanced?logo=issue-opened&logoColor=white&color=%23ff0000&label=Issues" alt="Issues Badge"></a>
+    <a href="https://github.com/arichornlover/YouTubeEnhanced/release/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/arichornlover/YouTubeEnhanced?logo=youtube&color=%23ff0000&label=Latest%20Release" alt="Badge"></img></a>
+    <a href="https://github.com/arichornlover/YouTubeEnhanced/releases/latest"><img src="https://img.shields.io/github/downloads/arichornlover/YouTubeEnhanced/total?color=%23ff0000&label=Downloads&logo=cloudsmith&logoColor=white" alt="Badge"></img></a>
+    <a href="https://github.com/arichornlover/YouTubeEnhanced/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/arichornlover/YouTubeEnhanced?logo=history&logoColor=white&color=%23ff0000&label=Last%20Commit" alt="Last Commit Badge"></a>
+    <a href="https://github.com/arichornlover/YouTubeEnhanced/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/arichornlover/YouTubeEnhanced?logo=issue-opened&logoColor=white&color=%23ff0000&label=Issues" alt="Issues Badge"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/arichorn/YouTubeEnhanced/stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/arichorn/YouTubeEnhanced?logo=star&logoColor=white&color=%23ff0000&label=Stars" alt="Stars Badge"></img></a>
-<a href="https://github.com/arichorn/YouTubeEnhanced/network/members"><img src="https://custom-icon-badges.demolab.com/github/forks/arichorn/YouTubeEnhanced?logo=github&logoColor=white&color=%23ff0000&label=Forks"></a>
+    <a href="https://github.com/arichorn/YouTubeEnhanced/stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/arichornlover/YouTubeEnhanced?logo=star&logoColor=white&color=%23ff0000&label=Stars" alt="Stars Badge"></img></a>
+<a href="https://github.com/arichornlover/YouTubeEnhanced/network/members"><img src="https://custom-icon-badges.demolab.com/github/forks/arichornlover/YouTubeEnhanced?logo=github&logoColor=white&color=%23ff0000&label=Forks"></a>
 </p>
 
 # Table of Contents
@@ -33,12 +33,11 @@ for a better experience.
 * [Known issues](#known-issues)
 * [Download (IPA)](#download-ipa)
 * [Support the developers!](#support-the-developers)
-* [Building (optional)](#building-optional)
+* [Wiki](#wiki)
 
 # Credits
 
 <table id='maintainer credit'>
-Special thanks to these developer(s) for maintaining and improving YouTubeEnhanced!
 <tr>
 <td align="center">
 <a href='https://github.com/arichorn'>
@@ -70,7 +69,6 @@ Special thanks to these developer(s) for maintaining and improving YouTubeEnhanc
 </td>
 
 <table id='credit'>
-Special thanks to all the developers who have orignally contributed to uYouPlus & YouTubeEnhanced!
 <tr>
 <td align="center">
 <a href='https://github.com/MiRO92'>
@@ -246,7 +244,7 @@ any many more...
 
 # Download (IPA)
 
-- **YouTubeEnhanced** requires iOS & iPadOS 14.0 and later. The latest version of **YouTubeEnhanced** can be found in the [Release tab](https://github.com/arichorn/YouTubePlus/releases/latest).
+- **YouTubeEnhanced** requires iOS & iPadOS 14.0 and later. The latest version of **YouTubeEnhanced** can be found in the [Release tab](https://github.com/arichorn/YouTubeEnhanced/releases/latest).
 
 - For AltStore user: [Open in AltStore (v18.48.3)](https://tinyurl.com/64y6x8s6) - It will take a while to install because AltStore needs to download the IPA first.
 
@@ -285,16 +283,35 @@ any many more...
 
 </details>
 
+# Installation
+
+See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation).
+
 # Support the developers
-- [**MiRO92**](https://twitter.com/miro92): https://github.com/MiRO92/uYou-for-YouTube#support
-- [**level3tjg**](https://twitter.com/level3tjg): https://ko-fi.com/level3tjg
-- [**BandarHL**](https://twitter.com/bandarhl): https://www.paypal.com/paypalme/BandarHL
-- [**julioverne**](https://twitter.com/ijulioverne): https://www.patreon.com/julioverne
-- [**Galactic-dev**](https://twitter.com/dev_galactic):   
-  - Paypal: https://www.paypal.com/paypalme/DBrett684 
-  - Venmo: https://venmo.com/u/DavidBrett
+<a href="https://buymeacoffee.com/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(buymeacoffee).png" width="200"></a>
+&nbsp;
+<a href="https://github.com/sponsors/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(Github).png" width="200"></a>
 
-# Building (optional)
-See [YouTubeRebornPlus/Building - Wiki](https://github.com/arichorn/YouTubeRebornPlus/wiki/Building)
-or Another Version [uYouPlus/Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)
+<a href="https://ko-fi.com/dayanch966"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(ko-fi).png" width="200"></a>
+&nbsp;
+<a href="https://www.paypal.com/paypalme/poomsmart"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Poomsmart.png" width="200"></a>
 
+<a href="https://www.paypal.com/paypalme/DBrett684"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Paypal).png" width="200"></a>
+&nbsp;
+<a href="https://venmo.com/u/DavidBrett"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Venmo).png?raw=true" width="200"></a>
+
+
+<a href="https://github.com/MiRO92/uYou-for-YouTube#support"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Donations/MIRO92.png" width="200"></a>
+&nbsp;
+
+<a href="https://www.paypal.com/paypalme/BandarHL"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/BandarHL.png" width="200"></a>
+&nbsp;
+
+<a href="https://ko-fi.com/level3tjg"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/level3tjg.png?raw=true" width="200"></a>
+&nbsp;
+
+<a href="https://www.patreon.com/julioverne"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/julioverne.png?raw=true" width="200"></a>
+
+# Wiki
+
+See [arichornlover - Wiki](https://github.com/arichornlover/uYouenhanced/wiki/) or [qnblackcat - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/)

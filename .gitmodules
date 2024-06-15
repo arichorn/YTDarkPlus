@@ -47,3 +47,12 @@
 [submodule "Tweaks/YTHoldForSpeed"]
 	path = Tweaks/YTHoldForSpeed
 	url = https://github.com/arichorn/YTHoldForSpeed.git
+[submodule "Tweaks/YouGroupSettings"]
+	path = Tweaks/YouGroupSettings
+	url = https://github.com/arichornlover/YouGroupSettings.git
+[submodule "Tweaks/YouTimeStamp"]
+	path = Tweaks/YouTimeStamp
+	url = https://github.com/arichornlover/YouTimeStamp.git
+[submodule "Tweaks/protobuf"]
+	path = Tweaks/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
